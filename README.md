@@ -26,4 +26,4 @@ define('APP_DB_PWD', 'your_db_password');
 
 03/07/2018 @wildcodeschool.fr
 
-This repository is the result of our projet n°2 at @wildcodeschool.fr with Alicia Pilar (alias kaleessi83), Eric Rousselet (eric-rousselet), Nicolas François (alias NicoFrancois), Julien Delbez (alias Hakha44) and me. We worked on it from  26/09/2018 to 07/11/2018. We started the projet from a free template (that's why there is so much JavaScript and CSS) because at the begining, there was only 4 weeks to finish the project. First we cleaned the template, then we start to develope our own website.
+This repository is the result of our projet n°2 at @wildcodeschool.fr with Alicia Pilar (alias kaleessi83), Eric Rousselet (eric-rousselet), Nicolas François (alias NicoFrancois), Julien Delbez (alias Hakha44) and me. We worked on it from  26/09/2018 to 07/11/2018. We started the projet from a free template (that's why there is so much JavaScript and CSS) because at the begining, there was only 4 weeks to finish the project. First we cleaned the template, then we start to develop our own website.
