@@ -12,6 +12,7 @@ For this one, just a simple example where users can chose one of their databases
 1. Clone the repos from Github.
 2. Run `composer install`.
 3. Create *app/db.php* from *app/db.php.dist* file and add your DB parameters. Don't delete the *.dist* file, it must be kept.
+4. Create upload directory in /public/assets/images. If you dont, the create function won't operate.
 ```php
 define('APP_DB_HOST', 'your_db_host');
 define('APP_DB_NAME', 'your_db_name');
