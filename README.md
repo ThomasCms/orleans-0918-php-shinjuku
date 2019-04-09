@@ -47,6 +47,7 @@ de mettre en pratique les différentes notions vues pendant le 2ème mois de la 
 * HTML 5
 * CSS 3
 * PHP 7
+* SQL
 
 ### Frameworks
 * Bootstrap 4
