@@ -27,4 +27,41 @@ define('APP_DB_PWD', 'your_db_password');
 
 03/07/2018 @wildcodeschool.fr
 
-This repository is the result of our project n°2 on @wildcodeschool.fr with Alicia Pilar (alias kaleessi83), Eric Rousselet (eric-rousselet), Nicolas François (alias NicoFrancois), Julien Delbez (alias Hakha44) and myself. We worked on it from 26/09/2018 to 07/11/2018. We started the project from a free template (that's why there is so much JavaScript and CSS) because at the beginning, there were only 4 weeks to complete the project. We first cleaned the template, then started developing our own website.
+This repository is the result of our project n°2. We worked on it 5 weeks. We started the project from a free template (that's why there is so much JavaScript and CSS) because at the beginning, there were only 4 weeks to complete the project. We first cleaned the template, then started developing the website.
+
+# Shinjuku-World
+
+Refonte du site https://www.shinjuku-world.com/
+
+## Objectif pédagogique
+
+Projet fictif, réalisé pour la Wild Code School d'Orléans, afin
+de mettre en pratique les différentes notions vues pendant le 2ème mois de la formation :
+* Architecture MVC
+* Composer, POO, Twig
+* Méthode Scrum / Agile
+
+* Durée du projet : 5 semaines
+
+### Langages
+* HTML 5
+* CSS 3
+* Bootstrap 4
+* PHP 7
+
+### Méthodologie
+* Scrum / Agile
+
+### Versioning
+* Git / Git Workflow
+
+### Outils
+* PhpStorm
+ 
+### Contributeurs
+
+* Alicia Pilar - [kaleessi83](https://github.com/kaleessi83)
+* Eric Rousselet - [eric-rousselet](https://github.com/eric-rousselet)
+* Nicolas Francois - [NicoFrancois](https://github.com/NicoFrancois)
+* Julien Delbez - [JulienD45](https://github.com/JulienD45)
+* Thomas Coumes - [ThomasCms](https://github.com/ThomasCms)
