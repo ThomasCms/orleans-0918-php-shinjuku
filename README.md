@@ -46,8 +46,10 @@ de mettre en pratique les différentes notions vues pendant le 2ème mois de la 
 ### Langages
 * HTML 5
 * CSS 3
-* Bootstrap 4
 * PHP 7
+
+### Frameworks
+* Bootstrap 4
 
 ### Méthodologie
 * Scrum / Agile
